@@ -1,0 +1,10 @@
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerDomain\bin\Release\MyBroker.Domain.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerDomain\bin\Release\MyBroker.Domain.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerDomain\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerDomain\obj\Release\MyBroker.Domain.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerDomain\obj\Release\MyBroker.Domain.pdb
+D:\MyWorks\MyBroker2010\MyBrokerDomain\bin\Release\MyBroker.Domain.dll
+D:\MyWorks\MyBroker2010\MyBrokerDomain\bin\Release\MyBroker.Domain.pdb
+D:\MyWorks\MyBroker2010\MyBrokerDomain\obj\Release\ResolveAssemblyReference.cache
+D:\MyWorks\MyBroker2010\MyBrokerDomain\obj\Release\MyBroker.Domain.dll
+D:\MyWorks\MyBroker2010\MyBrokerDomain\obj\Release\MyBroker.Domain.pdb

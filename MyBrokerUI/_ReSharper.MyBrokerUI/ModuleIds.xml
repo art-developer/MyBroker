@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="89BBBF5F-F555-4FFC-A651-1726956A12C4" ModuleId="MyBroker.UI" />
+  <Module PersistentId="9B48DF30-0F23-426A-97AA-35138EC5CB29" ModuleId="MyBroker.Controller" />
+  <Module PersistentId="B76AAFCA-8C25-4893-80E0-1CBA97616B80" ModuleId="MyBroker.Domain" />
+  <Module PersistentId="AC26293D-9B88-4D76-BBF1-82D4FEFA6A61" ModuleId="EfxRateProvider" />
+</Modules>

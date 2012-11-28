@@ -1,0 +1,5 @@
+D:\MyWorks\MyBroker\MyBrokerDomain\bin\Debug\MyBrokerDomain.dll
+D:\MyWorks\MyBroker\MyBrokerDomain\bin\Debug\MyBrokerDomain.pdb
+D:\MyWorks\MyBroker\MyBrokerDomain\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyBroker\MyBrokerDomain\obj\Debug\MyBrokerDomain.dll
+D:\MyWorks\MyBroker\MyBrokerDomain\obj\Debug\MyBrokerDomain.pdb

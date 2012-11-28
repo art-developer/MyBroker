@@ -1,0 +1,10 @@
+D:\MyWorks\MyBroker\MyBroker.StrategyHelper\bin\Debug\MyBroker.StrategyHelper.dll
+D:\MyWorks\MyBroker\MyBroker.StrategyHelper\bin\Debug\MyBroker.StrategyHelper.pdb
+D:\MyWorks\MyBroker\MyBroker.StrategyHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyBroker\MyBroker.StrategyHelper\obj\Debug\MyBroker.StrategyHelper.dll
+D:\MyWorks\MyBroker\MyBroker.StrategyHelper\obj\Debug\MyBroker.StrategyHelper.pdb
+d:\MyWorks\MyBroker2010\MyBroker.StrategyHelper\bin\Debug\MyBroker.StrategyHelper.dll
+d:\MyWorks\MyBroker2010\MyBroker.StrategyHelper\bin\Debug\MyBroker.StrategyHelper.pdb
+d:\MyWorks\MyBroker2010\MyBroker.StrategyHelper\obj\Debug\ResolveAssemblyReference.cache
+d:\MyWorks\MyBroker2010\MyBroker.StrategyHelper\obj\Debug\MyBroker.StrategyHelper.dll
+d:\MyWorks\MyBroker2010\MyBroker.StrategyHelper\obj\Debug\MyBroker.StrategyHelper.pdb

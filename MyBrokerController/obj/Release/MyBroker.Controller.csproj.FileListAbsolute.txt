@@ -1,0 +1,16 @@
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\obj\Release\ResolveAssemblyReference.cache
+D:\MyWorks\MyBroker2010\MyBrokerController\bin\Release\MyBrokerController.dll
+D:\MyWorks\MyBroker2010\MyBrokerController\bin\Release\MyBrokerController.pdb
+D:\MyWorks\MyBroker2010\MyBrokerController\bin\Release\EfxRateProvider.dll
+D:\MyWorks\MyBroker2010\MyBrokerController\bin\Release\MyBroker.Domain.dll
+D:\MyWorks\MyBroker2010\MyBrokerController\bin\Release\MyBroker.Strategy.dll
+D:\MyWorks\MyBroker2010\MyBrokerController\bin\Release\MyBroker.StrategyHelper.dll
+D:\MyWorks\MyBroker2010\MyBrokerController\bin\Release\MyBrokerWinApi.dll
+D:\MyWorks\MyBroker2010\MyBrokerController\bin\Release\EfxRateProvider.pdb
+D:\MyWorks\MyBroker2010\MyBrokerController\bin\Release\MyBroker.StrategyHelper.pdb
+D:\MyWorks\MyBroker2010\MyBrokerController\bin\Release\MyBroker.Strategy.pdb
+D:\MyWorks\MyBroker2010\MyBrokerController\bin\Release\MyBroker.Domain.pdb
+D:\MyWorks\MyBroker2010\MyBrokerController\bin\Release\MyBrokerWinApi.pdb
+D:\MyWorks\MyBroker2010\MyBrokerController\obj\Release\ResolveAssemblyReference.cache
+D:\MyWorks\MyBroker2010\MyBrokerController\obj\Release\MyBrokerController.dll
+D:\MyWorks\MyBroker2010\MyBrokerController\obj\Release\MyBrokerController.pdb

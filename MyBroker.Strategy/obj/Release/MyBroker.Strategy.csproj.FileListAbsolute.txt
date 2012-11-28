@@ -1,0 +1,18 @@
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBroker.Strategy\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBroker.Strategy\bin\Release\MyBroker.Strategy.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBroker.Strategy\bin\Release\MyBroker.Strategy.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBroker.Strategy\bin\Release\MyBroker.Domain.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBroker.Strategy\bin\Release\MyBroker.StrategyHelper.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBroker.Strategy\bin\Release\MyBroker.Domain.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBroker.Strategy\bin\Release\MyBroker.StrategyHelper.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBroker.Strategy\obj\Release\MyBroker.Strategy.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBroker.Strategy\obj\Release\MyBroker.Strategy.pdb
+D:\MyWorks\MyBroker2010\MyBroker.Strategy\bin\Release\MyBroker.Strategy.dll
+D:\MyWorks\MyBroker2010\MyBroker.Strategy\bin\Release\MyBroker.Strategy.pdb
+D:\MyWorks\MyBroker2010\MyBroker.Strategy\bin\Release\MyBroker.Domain.dll
+D:\MyWorks\MyBroker2010\MyBroker.Strategy\bin\Release\MyBroker.StrategyHelper.dll
+D:\MyWorks\MyBroker2010\MyBroker.Strategy\bin\Release\MyBroker.StrategyHelper.pdb
+D:\MyWorks\MyBroker2010\MyBroker.Strategy\bin\Release\MyBroker.Domain.pdb
+D:\MyWorks\MyBroker2010\MyBroker.Strategy\obj\Release\ResolveAssemblyReference.cache
+D:\MyWorks\MyBroker2010\MyBroker.Strategy\obj\Release\MyBroker.Strategy.dll
+D:\MyWorks\MyBroker2010\MyBroker.Strategy\obj\Release\MyBroker.Strategy.pdb

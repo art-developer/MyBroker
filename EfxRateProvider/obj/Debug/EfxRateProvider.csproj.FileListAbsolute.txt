@@ -1,0 +1,21 @@
+D:\MyWorks\MyBroker\EfxRateProvider\bin\Debug\EfxRateProvider.dll
+D:\MyWorks\MyBroker\EfxRateProvider\bin\Debug\EfxRateProvider.pdb
+D:\MyWorks\MyBroker\EfxRateProvider\obj\Debug\EfxRateProvider.dll
+D:\MyWorks\MyBroker\EfxRateProvider\obj\Debug\EfxRateProvider.pdb
+D:\MyWorks\MyBroker\EfxRateProvider\bin\Debug\MyBroker.Domain.dll
+D:\MyWorks\MyBroker\EfxRateProvider\bin\Debug\MyBroker.Domain.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\EfxRateProvider\bin\Debug\EfxRateProvider.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\EfxRateProvider\bin\Debug\EfxRateProvider.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\EfxRateProvider\bin\Debug\MyBroker.Domain.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\EfxRateProvider\bin\Debug\MyBroker.Domain.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\EfxRateProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\EfxRateProvider\obj\Debug\EfxRateProvider.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\EfxRateProvider\obj\Debug\EfxRateProvider.pdb
+d:\MyWorks\MyBroker2010\EfxRateProvider\bin\Debug\EfxRateProvider.dll
+d:\MyWorks\MyBroker2010\EfxRateProvider\bin\Debug\EfxRateProvider.pdb
+d:\MyWorks\MyBroker2010\EfxRateProvider\bin\Debug\MyBroker.Domain.dll
+d:\MyWorks\MyBroker2010\EfxRateProvider\bin\Debug\MyBroker.Domain.pdb
+d:\MyWorks\MyBroker2010\EfxRateProvider\obj\Debug\EfxRateProvider.dll
+d:\MyWorks\MyBroker2010\EfxRateProvider\obj\Debug\EfxRateProvider.pdb
+D:\MyWorks\MyBroker2010\EfxRateProvider\obj\Debug\EfxRateProvider.csprojResolveAssemblyReference.cache
+D:\MyWorks\MyBroker\EfxRateProvider\obj\Debug\EfxRateProvider.csprojResolveAssemblyReference.cache

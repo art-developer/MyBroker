@@ -1,0 +1,41 @@
+D:\MyWorks\MyBroker\MyBrokerController\bin\Debug\MyBrokerController.dll
+D:\MyWorks\MyBroker\MyBrokerController\bin\Debug\MyBrokerController.pdb
+D:\MyWorks\MyBroker\MyBrokerController\bin\Debug\EfxRateProvider.dll
+D:\MyWorks\MyBroker\MyBrokerController\bin\Debug\MyBrokerWinApi.dll
+D:\MyWorks\MyBroker\MyBrokerController\bin\Debug\EfxRateProvider.pdb
+D:\MyWorks\MyBroker\MyBrokerController\bin\Debug\MyBrokerWinApi.pdb
+D:\MyWorks\MyBroker\MyBrokerController\obj\Debug\MyBrokerController.dll
+D:\MyWorks\MyBroker\MyBrokerController\obj\Debug\MyBrokerController.pdb
+D:\MyWorks\MyBroker\MyBrokerController\bin\Debug\MyBroker.Domain.dll
+D:\MyWorks\MyBroker\MyBrokerController\bin\Debug\MyBroker.Strategy.dll
+D:\MyWorks\MyBroker\MyBrokerController\bin\Debug\MyBroker.Domain.pdb
+D:\MyWorks\MyBroker\MyBrokerController\bin\Debug\MyBroker.Strategy.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\bin\Debug\MyBrokerController.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\bin\Debug\MyBrokerController.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\bin\Debug\EfxRateProvider.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\bin\Debug\MyBroker.Domain.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\bin\Debug\MyBroker.Strategy.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\bin\Debug\MyBroker.StrategyHelper.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\bin\Debug\MyBrokerWinApi.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\bin\Debug\MyBroker.Domain.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\bin\Debug\MyBroker.StrategyHelper.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\bin\Debug\EfxRateProvider.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\bin\Debug\MyBrokerWinApi.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\bin\Debug\MyBroker.Strategy.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\obj\Debug\MyBrokerController.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerController\obj\Debug\MyBrokerController.pdb
+d:\MyWorks\MyBroker2010\MyBrokerController\bin\Debug\MyBrokerController.dll
+d:\MyWorks\MyBroker2010\MyBrokerController\bin\Debug\MyBrokerController.pdb
+d:\MyWorks\MyBroker2010\MyBrokerController\bin\Debug\EfxRateProvider.dll
+d:\MyWorks\MyBroker2010\MyBrokerController\bin\Debug\MyBroker.Domain.dll
+d:\MyWorks\MyBroker2010\MyBrokerController\bin\Debug\MyBroker.Strategy.dll
+d:\MyWorks\MyBroker2010\MyBrokerController\bin\Debug\MyBrokerWinApi.dll
+d:\MyWorks\MyBroker2010\MyBrokerController\bin\Debug\EfxRateProvider.pdb
+d:\MyWorks\MyBroker2010\MyBrokerController\bin\Debug\MyBroker.Strategy.pdb
+d:\MyWorks\MyBroker2010\MyBrokerController\bin\Debug\MyBroker.Domain.pdb
+d:\MyWorks\MyBroker2010\MyBrokerController\bin\Debug\MyBrokerWinApi.pdb
+d:\MyWorks\MyBroker2010\MyBrokerController\obj\Debug\MyBrokerController.dll
+d:\MyWorks\MyBroker2010\MyBrokerController\obj\Debug\MyBrokerController.pdb
+D:\MyWorks\MyBroker2010\MyBrokerController\obj\Debug\MyBroker.Controller.csprojResolveAssemblyReference.cache
+D:\MyWorks\MyBroker\MyBrokerController\obj\Debug\MyBroker.Controller.csprojResolveAssemblyReference.cache

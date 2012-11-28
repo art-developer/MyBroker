@@ -1,0 +1,10 @@
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerWinApi\bin\Release\MyBrokerWinApi.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerWinApi\bin\Release\MyBrokerWinApi.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerWinApi\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerWinApi\obj\Release\MyBrokerWinApi.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerWinApi\obj\Release\MyBrokerWinApi.pdb
+D:\MyWorks\MyBroker2010\MyBrokerWinApi\bin\Release\MyBrokerWinApi.dll
+D:\MyWorks\MyBroker2010\MyBrokerWinApi\bin\Release\MyBrokerWinApi.pdb
+D:\MyWorks\MyBroker2010\MyBrokerWinApi\obj\Release\ResolveAssemblyReference.cache
+D:\MyWorks\MyBroker2010\MyBrokerWinApi\obj\Release\MyBrokerWinApi.dll
+D:\MyWorks\MyBroker2010\MyBrokerWinApi\obj\Release\MyBrokerWinApi.pdb

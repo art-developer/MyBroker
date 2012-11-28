@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MyBrokerUI">
+</Property><Property Name="Solution File" Value="D:\MyWorks\MyBroker2010\MyBrokerUI\MyBrokerUI.sln">
+</Property><Property Name="Date" Value="26 февраля 2012 г.">
+</Property><Property Name="Time" Value="22:49">
+</Property></Properties><Event ErrorLevel="0" Project="MyBroker.UI" Source="MyBroker.UI.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MyBroker.UI" Source="MyBroker.UI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyBroker.Controller" Source="..\MyBrokerController\MyBroker.Controller.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MyBroker.Controller" Source="..\MyBrokerController\MyBroker.Controller.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EfxRateProvider" Source="..\EfxRateProvider\EfxRateProvider.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EfxRateProvider" Source="..\EfxRateProvider\EfxRateProvider.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyBroker.Domain" Source="..\MyBrokerDomain\MyBroker.Domain.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MyBroker.Domain" Source="..\MyBrokerDomain\MyBroker.Domain.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyBroker.WinApi" Source="..\MyBrokerWinApi\MyBroker.WinApi.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MyBroker.WinApi" Source="..\MyBrokerWinApi\MyBroker.WinApi.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyBroker.Strategy" Source="..\MyBroker.Strategy\MyBroker.Strategy.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MyBroker.Strategy" Source="..\MyBroker.Strategy\MyBroker.Strategy.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyBroker.Utils" Source="..\MyBroker.StrategyHelper\MyBroker.Utils.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MyBroker.Utils" Source="..\MyBroker.StrategyHelper\MyBroker.Utils.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MyBrokerUI.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MyBrokerUI.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyBroker.UI" Source="MyBroker.UI.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MyBroker.Controller" Source="..\MyBrokerController\MyBroker.Controller.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="EfxRateProvider" Source="..\EfxRateProvider\EfxRateProvider.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MyBroker.Domain" Source="..\MyBrokerDomain\MyBroker.Domain.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MyBroker.WinApi" Source="..\MyBrokerWinApi\MyBroker.WinApi.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MyBroker.Strategy" Source="..\MyBroker.Strategy\MyBroker.Strategy.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MyBroker.Utils" Source="..\MyBroker.StrategyHelper\MyBroker.Utils.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

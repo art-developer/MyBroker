@@ -1,0 +1,9 @@
+D:\MyWorks\MyBroker\MyBrokerDomain\bin\Debug\MyBroker.Domain.dll
+D:\MyWorks\MyBroker\MyBrokerDomain\bin\Debug\MyBroker.Domain.pdb
+D:\MyWorks\MyBroker\MyBrokerDomain\obj\Debug\MyBroker.Domain.dll
+D:\MyWorks\MyBroker\MyBrokerDomain\obj\Debug\MyBroker.Domain.pdb
+d:\MyWorks\MyBroker2010\MyBrokerDomain\bin\Debug\MyBroker.Domain.dll
+d:\MyWorks\MyBroker2010\MyBrokerDomain\bin\Debug\MyBroker.Domain.pdb
+d:\MyWorks\MyBroker2010\MyBrokerDomain\obj\Debug\MyBroker.Domain.dll
+d:\MyWorks\MyBroker2010\MyBrokerDomain\obj\Debug\MyBroker.Domain.pdb
+D:\MyWorks\MyBroker2010\MyBrokerDomain\obj\Debug\MyBroker.Domain.csprojResolveAssemblyReference.cache

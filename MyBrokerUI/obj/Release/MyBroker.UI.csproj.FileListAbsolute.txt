@@ -1,0 +1,27 @@
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Release\MyBrokerUI.exe.config
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\obj\Release\MyBrokerUI.MainForm.resources
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\obj\Release\MyBrokerUI.Properties.Resources.resources
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\obj\Release\MyBroker.UI.csproj.GenerateResource.Cache
+D:\MyWorks\MyBroker2010\MyBrokerUI\bin\Release\MyBrokerUI.exe.config
+D:\MyWorks\MyBroker2010\MyBrokerUI\bin\Release\MyBrokerUI.exe
+D:\MyWorks\MyBroker2010\MyBrokerUI\bin\Release\MyBrokerUI.pdb
+D:\MyWorks\MyBroker2010\MyBrokerUI\bin\Release\MyBroker.Domain.dll
+D:\MyWorks\MyBroker2010\MyBrokerUI\bin\Release\MyBrokerController.dll
+D:\MyWorks\MyBroker2010\MyBrokerUI\bin\Release\MyBroker.Strategy.dll
+D:\MyWorks\MyBroker2010\MyBrokerUI\bin\Release\MyBrokerWinApi.dll
+D:\MyWorks\MyBroker2010\MyBrokerUI\bin\Release\EfxRateProvider.dll
+D:\MyWorks\MyBroker2010\MyBrokerUI\bin\Release\MyBroker.StrategyHelper.dll
+D:\MyWorks\MyBroker2010\MyBrokerUI\bin\Release\MyBrokerController.pdb
+D:\MyWorks\MyBroker2010\MyBrokerUI\bin\Release\MyBroker.Domain.pdb
+D:\MyWorks\MyBroker2010\MyBrokerUI\bin\Release\MyBroker.Strategy.pdb
+D:\MyWorks\MyBroker2010\MyBrokerUI\bin\Release\MyBrokerWinApi.pdb
+D:\MyWorks\MyBroker2010\MyBrokerUI\bin\Release\EfxRateProvider.pdb
+D:\MyWorks\MyBroker2010\MyBrokerUI\bin\Release\MyBroker.StrategyHelper.pdb
+D:\MyWorks\MyBroker2010\MyBrokerUI\obj\Release\ResolveAssemblyReference.cache
+D:\MyWorks\MyBroker2010\MyBrokerUI\obj\Release\MyBrokerUI.MainForm.resources
+D:\MyWorks\MyBroker2010\MyBrokerUI\obj\Release\MyBrokerUI.Properties.Resources.resources
+D:\MyWorks\MyBroker2010\MyBrokerUI\obj\Release\GenerateResource.read.1.tlog
+D:\MyWorks\MyBroker2010\MyBrokerUI\obj\Release\GenerateResource.write.1.tlog
+D:\MyWorks\MyBroker2010\MyBrokerUI\obj\Release\MyBrokerUI.exe
+D:\MyWorks\MyBroker2010\MyBrokerUI\obj\Release\MyBrokerUI.pdb

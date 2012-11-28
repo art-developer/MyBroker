@@ -1,0 +1,59 @@
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBrokerUI.exe
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBrokerUI.pdb
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBrokerController.dll
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBrokerWinApi.dll
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\EfxRateProvider.dll
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBrokerWinApi.pdb
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBrokerController.pdb
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\EfxRateProvider.pdb
+D:\MyWorks\MyBroker\MyBrokerUI\obj\Debug\MyBrokerUI.MainForm.resources
+D:\MyWorks\MyBroker\MyBrokerUI\obj\Debug\MyBrokerUI.Properties.Resources.resources
+D:\MyWorks\MyBroker\MyBrokerUI\obj\Debug\MyBroker.UI.csproj.GenerateResource.Cache
+D:\MyWorks\MyBroker\MyBrokerUI\obj\Debug\MyBrokerUI.exe
+D:\MyWorks\MyBroker\MyBrokerUI\obj\Debug\MyBrokerUI.pdb
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBroker.Domain.dll
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBroker.Domain.pdb
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBrokerUI.exe.config
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBroker.Strategy.dll
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBroker.Strategy.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Debug\MyBrokerUI.exe.config
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\obj\Debug\MyBrokerUI.exe
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\obj\Debug\MyBrokerUI.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Debug\MyBrokerUI.exe
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Debug\MyBrokerUI.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Debug\MyBroker.Domain.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Debug\MyBrokerController.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Debug\MyBroker.StrategyHelper.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Debug\MyBroker.Strategy.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Debug\MyBrokerWinApi.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Debug\EfxRateProvider.dll
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Debug\MyBroker.StrategyHelper.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Debug\MyBroker.Domain.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Debug\MyBroker.Strategy.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Debug\MyBrokerWinApi.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Debug\MyBrokerController.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\bin\Debug\EfxRateProvider.pdb
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\obj\Debug\MyBrokerUI.MainForm.resources
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\obj\Debug\MyBrokerUI.Properties.Resources.resources
+C:\Users\Bushuev\Documents\Visual Studio 2008\Projects\MyBroker\MyBrokerUI\obj\Debug\MyBroker.UI.csproj.GenerateResource.Cache
+d:\MyWorks\MyBroker2010\MyBrokerUI\bin\Debug\MyBrokerUI.exe.config
+d:\MyWorks\MyBroker2010\MyBrokerUI\obj\Debug\MyBrokerUI.exe
+d:\MyWorks\MyBroker2010\MyBrokerUI\obj\Debug\MyBrokerUI.pdb
+d:\MyWorks\MyBroker2010\MyBrokerUI\bin\Debug\MyBrokerUI.exe
+d:\MyWorks\MyBroker2010\MyBrokerUI\bin\Debug\MyBrokerUI.pdb
+d:\MyWorks\MyBroker2010\MyBrokerUI\bin\Debug\MyBroker.Domain.dll
+d:\MyWorks\MyBroker2010\MyBrokerUI\bin\Debug\MyBrokerController.dll
+d:\MyWorks\MyBroker2010\MyBrokerUI\bin\Debug\MyBroker.Strategy.dll
+d:\MyWorks\MyBroker2010\MyBrokerUI\bin\Debug\MyBrokerWinApi.dll
+d:\MyWorks\MyBroker2010\MyBrokerUI\bin\Debug\EfxRateProvider.dll
+d:\MyWorks\MyBroker2010\MyBrokerUI\bin\Debug\MyBrokerController.pdb
+d:\MyWorks\MyBroker2010\MyBrokerUI\bin\Debug\MyBroker.Domain.pdb
+d:\MyWorks\MyBroker2010\MyBrokerUI\bin\Debug\MyBroker.Strategy.pdb
+d:\MyWorks\MyBroker2010\MyBrokerUI\bin\Debug\MyBrokerWinApi.pdb
+d:\MyWorks\MyBroker2010\MyBrokerUI\bin\Debug\EfxRateProvider.pdb
+d:\MyWorks\MyBroker2010\MyBrokerUI\obj\Debug\MyBrokerUI.MainForm.resources
+d:\MyWorks\MyBroker2010\MyBrokerUI\obj\Debug\MyBrokerUI.Properties.Resources.resources
+D:\MyWorks\MyBroker2010\MyBrokerUI\obj\Debug\MyBroker.UI.csprojResolveAssemblyReference.cache
+D:\MyWorks\MyBroker2010\MyBrokerUI\obj\Debug\MyBroker.UI.csproj.GenerateResource.Cache
+D:\MyWorks\MyBroker\MyBrokerUI\obj\Debug\MyBroker.UI.csprojResolveAssemblyReference.cache

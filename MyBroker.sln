@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfxRateProvider", "EfxRateProvider\EfxRateProvider.csproj", "{AC26293D-9B88-4D76-BBF1-82D4FEFA6A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBroker.Controller", "MyBrokerController\MyBroker.Controller.csproj", "{9B48DF30-0F23-426A-97AA-35138EC5CB29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBroker.Domain", "MyBrokerDomain\MyBroker.Domain.csproj", "{B76AAFCA-8C25-4893-80E0-1CBA97616B80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBroker.Strategy", "MyBroker.Strategy\MyBroker.Strategy.csproj", "{3DC75040-9F33-4132-A57F-29F509B5E374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBroker.UI", "MyBrokerUI\MyBroker.UI.csproj", "{89BBBF5F-F555-4FFC-A651-1726956A12C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBroker.WinApi", "MyBrokerWinApi\MyBroker.WinApi.csproj", "{BF7F2AF8-782A-4F66-8AC1-7660333F4D1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC26293D-9B88-4D76-BBF1-82D4FEFA6A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC26293D-9B88-4D76-BBF1-82D4FEFA6A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC26293D-9B88-4D76-BBF1-82D4FEFA6A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC26293D-9B88-4D76-BBF1-82D4FEFA6A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B48DF30-0F23-426A-97AA-35138EC5CB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B48DF30-0F23-426A-97AA-35138EC5CB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B48DF30-0F23-426A-97AA-35138EC5CB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B48DF30-0F23-426A-97AA-35138EC5CB29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76AAFCA-8C25-4893-80E0-1CBA97616B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76AAFCA-8C25-4893-80E0-1CBA97616B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76AAFCA-8C25-4893-80E0-1CBA97616B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76AAFCA-8C25-4893-80E0-1CBA97616B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC75040-9F33-4132-A57F-29F509B5E374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC75040-9F33-4132-A57F-29F509B5E374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC75040-9F33-4132-A57F-29F509B5E374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC75040-9F33-4132-A57F-29F509B5E374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BBBF5F-F555-4FFC-A651-1726956A12C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BBBF5F-F555-4FFC-A651-1726956A12C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BBBF5F-F555-4FFC-A651-1726956A12C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BBBF5F-F555-4FFC-A651-1726956A12C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7F2AF8-782A-4F66-8AC1-7660333F4D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7F2AF8-782A-4F66-8AC1-7660333F4D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7F2AF8-782A-4F66-8AC1-7660333F4D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7F2AF8-782A-4F66-8AC1-7660333F4D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

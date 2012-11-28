@@ -1,0 +1,10 @@
+D:\MyWorks\MyBroker\MyBrokerWinApi\bin\Debug\MyBrokerWinApi.dll
+D:\MyWorks\MyBroker\MyBrokerWinApi\bin\Debug\MyBrokerWinApi.pdb
+D:\MyWorks\MyBroker\MyBrokerWinApi\obj\Debug\MyBrokerWinApi.dll
+D:\MyWorks\MyBroker\MyBrokerWinApi\obj\Debug\MyBrokerWinApi.pdb
+d:\MyWorks\MyBroker2010\MyBrokerWinApi\bin\Debug\MyBrokerWinApi.dll
+d:\MyWorks\MyBroker2010\MyBrokerWinApi\bin\Debug\MyBrokerWinApi.pdb
+d:\MyWorks\MyBroker2010\MyBrokerWinApi\obj\Debug\MyBrokerWinApi.dll
+d:\MyWorks\MyBroker2010\MyBrokerWinApi\obj\Debug\MyBrokerWinApi.pdb
+D:\MyWorks\MyBroker2010\MyBrokerWinApi\obj\Debug\MyBroker.WinApi.csprojResolveAssemblyReference.cache
+D:\MyWorks\MyBroker\MyBrokerWinApi\obj\Debug\MyBroker.WinApi.csprojResolveAssemblyReference.cache

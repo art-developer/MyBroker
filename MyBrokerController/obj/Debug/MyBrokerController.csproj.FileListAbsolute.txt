@@ -1,0 +1,9 @@
+D:\MyWorks\MyBroker\MyBrokerController\bin\Debug\MyBrokerController.dll
+D:\MyWorks\MyBroker\MyBrokerController\bin\Debug\MyBrokerController.pdb
+D:\MyWorks\MyBroker\MyBrokerController\bin\Debug\MyBrokerDomain.dll
+D:\MyWorks\MyBroker\MyBrokerController\bin\Debug\MyBrokerDomain.pdb
+D:\MyWorks\MyBroker\MyBrokerController\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyBroker\MyBrokerController\obj\Debug\MyBrokerController.dll
+D:\MyWorks\MyBroker\MyBrokerController\obj\Debug\MyBrokerController.pdb
+d:\MyWorks\MyBroker\MyBrokerController\bin\Debug\EfxRateProvider.dll
+d:\MyWorks\MyBroker\MyBrokerController\bin\Debug\EfxRateProvider.pdb

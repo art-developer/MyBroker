@@ -1,0 +1,5 @@
+D:\MyWorks\MyBroker\MyBroker.CommonInterfaces\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyBroker\MyBroker.CommonInterfaces\bin\Debug\MyBroker.CommonInterfaces.dll
+D:\MyWorks\MyBroker\MyBroker.CommonInterfaces\bin\Debug\MyBroker.CommonInterfaces.pdb
+D:\MyWorks\MyBroker\MyBroker.CommonInterfaces\obj\Debug\MyBroker.CommonInterfaces.dll
+D:\MyWorks\MyBroker\MyBroker.CommonInterfaces\obj\Debug\MyBroker.CommonInterfaces.pdb

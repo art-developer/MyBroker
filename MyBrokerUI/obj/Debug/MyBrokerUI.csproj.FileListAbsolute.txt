@@ -1,0 +1,14 @@
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBrokerUI.exe
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBrokerUI.pdb
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBrokerController.dll
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBrokerDomain.dll
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBrokerDomain.pdb
+D:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\MyBrokerController.pdb
+D:\MyWorks\MyBroker\MyBrokerUI\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyBroker\MyBrokerUI\obj\Debug\MyBrokerUI.MainForm.resources
+D:\MyWorks\MyBroker\MyBrokerUI\obj\Debug\MyBrokerUI.Properties.Resources.resources
+D:\MyWorks\MyBroker\MyBrokerUI\obj\Debug\MyBrokerUI.csproj.GenerateResource.Cache
+D:\MyWorks\MyBroker\MyBrokerUI\obj\Debug\MyBrokerUI.exe
+D:\MyWorks\MyBroker\MyBrokerUI\obj\Debug\MyBrokerUI.pdb
+d:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\EfxRateProvider.dll
+d:\MyWorks\MyBroker\MyBrokerUI\bin\Debug\EfxRateProvider.pdb
